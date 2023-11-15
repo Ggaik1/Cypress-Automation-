@@ -1,2 +1,2 @@
-# Cypress-Automation-
+# Cypress-Automation
 Onboarding
