@@ -1,0 +1,20 @@
+{
+
+    "firstName": "Automation_Test_First_Name",
+    "lastName": "Automation_Test_Last_Name",
+    "username": "Automation_Test_Username141",
+    "password": "Automation_Test_Password",
+    "password2": "Automation_Test_Password_2",
+    "rememberMeCheckBox": true,
+    "bankName": "Automation_Test_Bank_Name",
+    "routingNumber": "123123123",
+    "accountNumber": "123123123",
+    "requestContact": "Edgar Johns",
+    "payContact": "Kaylin Homenick",
+    "amountNumber": "1",
+    "addANote": "Gimme my money ara",
+    "addANote1": "Take my money axji",
+    "requestTitle": "Requested ",
+    "forTitle": "For "
+
+}

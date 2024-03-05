@@ -1,0 +1,20 @@
+{
+    "name": "Ozzy",
+    "lastName": "Osbourne",
+    "gender": "Male",
+    "email": "ozzy.osbourne@gmail.com",
+    "password": "Ozzy12345!",
+    "password2": "Osbourne12345!",
+    "birthday": "09/02/24",
+    "checkbox": true,
+    "radioButtons": "option2",
+    "phone": "0000000001",
+    "address": "Birmingham",
+    "cardNumber": "890980890890",
+    "nameOnCard": "Ozzy Osbourne",
+    "country": "United Kingdom",
+    "zipCode": "1111",
+    "expDate": "15/2025",
+    "cvv": "123"
+
+}

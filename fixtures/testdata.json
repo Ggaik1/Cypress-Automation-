@@ -1,0 +1,11 @@
+{
+    "name": "Gagik",
+    "lastName": "Asatryan",
+    "gander": "Male",
+    "email": "test.cypres@gmail.com",
+    "password": "Private Information",
+    "birthday": "2003-02-10",
+    "checkbox": true,
+    "radioButtons": "option2",
+    "phone": "0000000001"
+}
